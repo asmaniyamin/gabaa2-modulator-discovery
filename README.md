@@ -1,4 +1,4 @@
-# Identifying Novel Anxiolytic Drugs for Selective Modulation of the α2 Subunit of GABA-A
+﻿# Identifying Novel Anxiolytic Drugs for Selective Modulation of the α2 Subunit of GABA-A
 
 This project was created for Stanford's CS229 course - "Machine Learning". It demonstrates a prototype application of existing machine learning algorithms for processing billion-scale molecular datasets, specifically in the context of drug discovery.
 
@@ -6,7 +6,7 @@ The focus of this pipeline is to identify selective modulators of the GABA-A rec
 
 ## Paper
 
-The associated paper can be found in [`GABA-a2-Modulatory-Discovery.pdf`](GABA-a2-Modulatory-Discovery.pdf).
+The associated paper can be found in [`GABA-a2-Modulator-Discovery.pdf`](GABA-a2-Modulator-Discovery.pdf).
 
 ## Data Access
 
